@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gabrielrufino/strabot-types/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/strabot-types#readme"
+  "homepage": "https://github.com/gabrielrufino/strabot-types#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.10"
+  }
 }
