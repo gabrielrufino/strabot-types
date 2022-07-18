@@ -1,0 +1,30 @@
+{
+  "name": "@strabot/types",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "npx standard",
+    "lint:fix": "npm run lint -- --fix",
+    "reinstall": "npx rimraf node_modules && npm ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrufino/strabot-types.git"
+  },
+  "author": {
+    "name": "Gabriel Rufino",
+    "email": "contato@gabrielrufino.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielrufino/strabot-types/issues"
+  },
+  "homepage": "https://github.com/gabrielrufino/strabot-types#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "rimraf": "^3.0.2",
+    "standard": "^17.0.0"
+  }
+}
