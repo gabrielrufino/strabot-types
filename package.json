@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/gabrielrufino/strabot-types#readme",
   "devDependencies": {
-    "jsdoc": "^3.6.10"
+    "jsdoc": "^3.6.10",
+    "rimraf": "^3.0.2"
   }
 }
