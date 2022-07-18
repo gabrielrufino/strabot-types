@@ -9,7 +9,7 @@
  * @typedef {Object} Message
  * @property {Number} id
  * @property {Object} attributes
- * @property {String} attributes.Text 
+ * @property {String} attributes.Text
  */
 
 export default {}

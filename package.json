@@ -5,6 +5,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "lint": "npx standard",
+    "lint:fix": "npm run lint -- --fix",
     "reinstall": "npx rimraf node_modules && npm ci"
   },
   "repository": {
