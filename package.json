@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/gabrielrufino/strabot-types.git"
   },
-  "author": "",
+  "author": {
+    "name": "Gabriel Rufino",
+    "email": "contato@gabrielrufino.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gabrielrufino/strabot-types/issues"
