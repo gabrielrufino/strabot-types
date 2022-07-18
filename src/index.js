@@ -20,7 +20,7 @@
  * @property {String} attributes.Token
  * @property {String} attributes.Username
  * @property {Boolean} attributes.Private_chats
- * @property {Boolean} attributes.Group_chats 
+ * @property {Boolean} attributes.Group_chats
  */
 
 export default {}
