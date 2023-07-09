@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielrufino/strabot-types.git"
+    "url": "git+https://github.com/strabot/strabot-types.git"
   },
   "author": {
     "name": "Gabriel Rufino",
@@ -19,9 +19,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gabrielrufino/strabot-types/issues"
+    "url": "https://github.com/strabot/strabot-types/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/strabot-types#readme",
+  "homepage": "https://github.com/strabot/strabot-types#readme",
   "devDependencies": {
     "jsdoc": "^4.0.2",
     "rimraf": "^5.0.1",
