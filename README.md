@@ -1,1 +1,1 @@
-# strabot-types
+# Strabot - Types
